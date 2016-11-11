@@ -15,6 +15,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AmanPratap"
+            android:label="@string/aman_pratap" />
+        <activity android:name=".Aditya"
+            android:label="@string/aditya" />
+        <activity android:name=".Bharat"
+            android:label="@string/bharat" />
+        <activity android:name=".KartikSaxena"
+            android:label="@string/kartik_saxena" />
+        <activity android:name=".PalakSood"
+            android:label="@string/palak_sood" />
     </application>
 
 </manifest>
