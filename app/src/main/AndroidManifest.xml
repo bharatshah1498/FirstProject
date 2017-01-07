@@ -16,15 +16,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".AmanPratap"
-            android:label="@string/aman_pratap" />
-        <activity android:name=".Aditya"
-            android:label="@string/aditya" />
-        <activity android:name=".Bharat"
-            android:label="@string/bharat" />
+            android:label="@string/profile" />
+        <activity android:name=".AdityaWazir"
+            android:label="@string/profile" />
+        <activity android:name=".BharatShah"
+            android:label="@string/profile" />
         <activity android:name=".KartikSaxena"
-            android:label="@string/kartik_saxena" />
+            android:label="@string/profile" />
         <activity android:name=".PalakSood"
-            android:label="@string/palak_sood" />
+            android:label="@string/profile" />
     </application>
 
 </manifest>

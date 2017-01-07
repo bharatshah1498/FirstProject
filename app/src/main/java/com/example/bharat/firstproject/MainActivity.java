@@ -19,12 +19,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Aditya(View view) {
-        Intent i = new Intent(this, Aditya.class);
+        Intent i = new Intent(this, AdityaWazir.class);
         startActivity(i);
     }
 
     public void Bharat(View view) {
-        Intent i = new Intent(this, Bharat.class);
+        Intent i = new Intent(this, BharatShah.class);
         startActivity(i);
     }
 
