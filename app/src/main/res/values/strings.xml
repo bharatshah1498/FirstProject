@@ -1,8 +1,25 @@
 <resources>
-    <string name="app_name">First Project</string>
-    <string name="aman_pratap">Aman Pratap</string>
-    <string name="aditya">Aditya</string>
-    <string name="bharat">Bharat</string>
+    <string name="app_name">App Team 1st Year</string>
+    <string name="aman_pratap">Aman Pratap Singh</string>
+    <string name="aman_schooling">Rashtriya Military School, Chail</string>
+    <string name="aman_living">Ambala Cantt, India</string>
+    <string name="aman_hometown">Basti, Uttar Pradesh, India</string>
+    <string name="aman_dob">13th October</string>
+    <string name="aman_intro">I am BRAVER than I believe, STRONGER than I seem, and SMARTER than you think.</string>
+    <string name="aman_ph1">+917807223934</string>
+    <string name="aman_ph2">+919467819368</string>
+    <string name="aman_mail1">mnprtpsingh@gmail.com</string>
+    <string name="aman_mail2">amanpratap.3568@gmail.com</string>
+    <string name="aditya_wazir">Aditya Wazir</string>
+    <string name="bharat_shah">Bharat Shah</string>
     <string name="kartik_saxena">Kartik Saxena</string>
     <string name="palak_sood">Palak Sood</string>
+    <string name="profile">Profile</string>
+    <string name="intro">Intro:</string>
+    <string name="schooling">Went to</string>
+    <string name="living">Lives in</string>
+    <string name="hometown">From</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="mob_number">Mobile Phones:</string>
+    <string name="email">Email:</string>
 </resources>
